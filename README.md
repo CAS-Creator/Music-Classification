@@ -24,3 +24,12 @@ Responsible for figuring out what our project should be focused on. Prepared ent
 
 Christian + Julia:
 Responsible for all code, sourcing, and understanding of data.
+
+
+***NOTE***
+
+Github was giving us issues. While trying to merge branches in order to submit the project, we got an error that we could not resolve. In the interest of time, we made a new Github repo, this is the one you are accessing currently.
+
+In order to see our Git commits please visit our original directory that is hosted under Julia's account:
+
+https://github.com/bisho121/music_project
